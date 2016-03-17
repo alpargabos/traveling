@@ -1,0 +1,14 @@
+# RRSSB
+facebook: true
+twitter: true
+googleplus: false
+linkedin: true
+reddit: false
+hackernews: false
+pinterest: true
+tumblr: false
+pocket: true
+email: true
+
+# Disqus
+disqus_shortname: 'travelingalpar'
