@@ -1,18 +1,15 @@
 ---
 layout: post
-title: "The Sound of Freedom"
-date: 2015-01-09
+title: "Flight from Bp to SF"
+date: 2016-03-14
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/desk.jpeg
 thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/drum-rudiment.jpeg
-category: music
-tags: relax fun songs playlist
+category: travel
+tags: flight sf budapest
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porta, felis eget vehicula porttitor, mauris ipsum tincidunt ligula, ac pretium risus sapien at metus. Donec pellentesque volutpat porttitor. Integer condimentum sagittis viverra. Vivamus suscipit quis lectus porta sollicitudin.
-
-Nulla sollicitudin nibh a magna malesuada, vitae dictum tellus mollis. Etiam sit amet justo massa. Integer sed mi volutpat, sollicitudin orci eget, tincidunt tellus. Mauris vitae vestibulum mi.
-
+Eloszo:§
 ![Sample Image](http://placehold.it/360x360)
 
 ## Donec imperdiet
